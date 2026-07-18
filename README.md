@@ -84,11 +84,3 @@ If this script helps you keep your PC fast and clean, please **star** the reposi
 **Made for power users who want full control over their system cleanup.**
 
 ---
-
-You can now create your new repository (`Temp-Flush-Royal`), upload the `Temp-Flush-Royal.ps1` file, and paste this README.
-
-Would you like me to also give you:
-- A short description for the GitHub repo page (the one-line description under the repo name)?
-- Instructions on how to upload everything quickly?
-
-Just say the word and I’ll send it right away. 🔥
